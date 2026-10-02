@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Foundation Matcher</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Foundation Matcher</h1>
+      <p class="tagline">Answer a few questions to get a shortlist of foundations that fit your skin, undertone, finish preference, budget, and dealbreakers.</p>
+    </div>
+  </header>
+
+  <main>
+    <section id="questionnaire-section" class="card">
+      <h2>Your questionnaire</h2>
+      <p id="loading">Loading questions…</p>
+      <form id="questionnaire" hidden></form>
+      <div id="form-actions" hidden>
+        <button type="button" id="submit-btn" class="primary">Show my matches</button>
+        <button type="button" id="download-btn" class="ghost">Download profile (JSON)</button>
+        <button type="button" id="reset-btn" class="ghost">Reset</button>
+      </div>
+      <p id="form-error" class="error" hidden></p>
+    </section>
+
+    <section id="results-section" class="card" hidden>
+      <div class="results-header">
+        <h2>Your matches</h2>
+        <div>
+          <span id="match-count" class="muted"></span>
+          <button type="button" id="back-btn" class="ghost small">Edit answers</button>
+        </div>
+      </div>
+      <div id="profile-summary" class="profile-summary"></div>
+      <div id="matches" class="matches"></div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Local demo — data from <code>foundations.csv</code>, spec from <code>questionnaire.json</code>.</small>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
