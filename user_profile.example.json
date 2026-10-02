@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "answers": {
+    "skin_type": [
+      "combination",
+      "sensitive"
+    ],
+    "undertone": "unsure",
+    "undertone_quiz": {
+      "vein_color": "green",
+      "jewelry": "gold",
+      "sun_reaction": "burn"
+    },
+    "skin_depth": "light",
+    "finish": [
+      "satin"
+    ],
+    "coverage": "light",
+    "fragrance_free": "preferred",
+    "non_comedogenic": "no_pref",
+    "cruelty_free": "vegan_required",
+    "price_range": "mid",
+    "spf_needed": "yes"
+  },
+  "resolved": {
+    "skin_type": {
+      "selected": [
+        "combination",
+        "sensitive"
+      ],
+      "maps_to_dataset": null
+    },
+    "undertone": "warm",
+    "skin_depth": "light",
+    "finish": {
+      "selected": [
+        "satin"
+      ],
+      "maps_to_dataset": [
+        "Satin",
+        "Natural"
+      ]
+    },
+    "coverage": {
+      "selected": "light",
+      "maps_to_dataset": [
+        "Sheer",
+        "Light",
+        "Light-Medium"
+      ]
+    },
+    "fragrance_free": "preferred",
+    "non_comedogenic": "no_pref",
+    "cruelty_free": "vegan_required",
+    "price_range": {
+      "selected": "mid",
+      "max_usd": 40
+    },
+    "spf_needed": "yes"
+  }
+}

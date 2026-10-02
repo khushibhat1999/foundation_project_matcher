@@ -1,0 +1,222 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Foundation Matcher Questionnaire",
+  "description": "Machine-readable spec of the user-facing questionnaire. Consumed by questionnaire.py (CLI) and can also drive a web form. Each question declares its id, prompt, help text, type (single/multi/number), option set, and whether it is required.",
+  "version": "1.0.0",
+  "sections": [
+    {
+      "id": "skin",
+      "title": "About your skin",
+      "questions": [
+        {
+          "id": "skin_type",
+          "prompt": "How would you describe your skin? (select all that apply)",
+          "help": "Pick every trait you notice most days. It's common to combine e.g. 'combination' + 'sensitive' or 'oily' + 'acne-prone'.",
+          "type": "multi",
+          "required": true,
+          "min_selections": 1,
+          "max_selections": 3,
+          "options": [
+            {"id": "oily",         "label": "Oily — shine appears within a few hours"},
+            {"id": "dry",          "label": "Dry — feels tight, flaky, or rough"},
+            {"id": "combination",  "label": "Combination — oily T-zone, drier cheeks"},
+            {"id": "normal",       "label": "Normal — balanced, few concerns"},
+            {"id": "sensitive",    "label": "Sensitive — reacts / stings / redness"},
+            {"id": "acne_prone",   "label": "Acne-prone — frequent breakouts or clogged pores"}
+          ]
+        },
+        {
+          "id": "undertone",
+          "prompt": "What is your undertone?",
+          "help": "Undertone is the color that peeks through your skin, separate from how fair/deep you are. Pick 'Unsure' to answer 3 quick sub-questions instead.",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "cool",    "label": "Cool — pink, red, or bluish cast"},
+            {"id": "warm",    "label": "Warm — golden, yellow, or peachy cast"},
+            {"id": "neutral", "label": "Neutral — a mix of cool and warm"},
+            {"id": "olive",   "label": "Olive — greenish or grey-green cast"},
+            {"id": "unsure",  "label": "Unsure — help me figure it out", "triggers_subquestions": "undertone_quiz"}
+          ]
+        },
+        {
+          "id": "skin_depth",
+          "prompt": "How deep is your skin tone?",
+          "help": "Think of your natural (un-tanned) skin color.",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "fair",      "label": "Fair — very light, often burns in the sun"},
+            {"id": "light",     "label": "Light — light, sometimes burns before tanning"},
+            {"id": "medium",    "label": "Medium — beige, tans easily"},
+            {"id": "tan",       "label": "Tan — golden to olive, rarely burns"},
+            {"id": "deep",      "label": "Deep — rich brown, never burns"},
+            {"id": "very_deep", "label": "Very deep — deepest brown / ebony"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "undertone_quiz",
+      "title": "Undertone helper (only asked if 'Unsure' above)",
+      "conditional_on": {"skin_type.undertone": "unsure"},
+      "scoring": {
+        "description": "Each answer adds points to Cool / Warm / Neutral / Olive. The highest score wins; ties resolve to Neutral.",
+        "buckets": ["cool", "warm", "neutral", "olive"]
+      },
+      "questions": [
+        {
+          "id": "vein_color",
+          "prompt": "In natural light, what color do the veins on your inner wrist look?",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "blue_purple", "label": "Blue or purple",         "score": {"cool": 2}},
+            {"id": "green",       "label": "Green",                   "score": {"warm": 2}},
+            {"id": "mix",         "label": "A mix — hard to tell",    "score": {"neutral": 2}},
+            {"id": "greenish_grey","label": "Greenish-grey",          "score": {"olive": 2}}
+          ]
+        },
+        {
+          "id": "jewelry",
+          "prompt": "Which jewelry metal tends to flatter you most?",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "silver",  "label": "Silver / platinum / white gold", "score": {"cool": 1}},
+            {"id": "gold",    "label": "Yellow gold / rose gold",         "score": {"warm": 1}},
+            {"id": "both",    "label": "Both look equally good",          "score": {"neutral": 1}},
+            {"id": "muted",   "label": "Both look slightly muted on me",  "score": {"olive": 1}}
+          ]
+        },
+        {
+          "id": "sun_reaction",
+          "prompt": "How does your skin usually react to sun exposure?",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "burn",       "label": "Burns easily, rarely tans",        "score": {"cool": 1}},
+            {"id": "tan",        "label": "Tans easily, rarely burns",        "score": {"warm": 1}},
+            {"id": "burn_then_tan","label": "Burns first, then tans",         "score": {"neutral": 1}},
+            {"id": "always_tan", "label": "Always looks tan / never burns, with green undertones", "score": {"olive": 2}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finish_coverage",
+      "title": "Finish & coverage",
+      "questions": [
+        {
+          "id": "finish",
+          "prompt": "What finish do you prefer? (select up to 2)",
+          "help": "Matte = no shine, blurred. Natural = skin-like. Satin = soft, subtle glow. Dewy = luminous, wet-look.",
+          "type": "multi",
+          "required": true,
+          "min_selections": 1,
+          "max_selections": 2,
+          "options": [
+            {"id": "matte",   "label": "Matte",
+             "maps_to_dataset": ["Matte"]},
+            {"id": "natural", "label": "Natural",
+             "maps_to_dataset": ["Natural", "Satin"]},
+            {"id": "satin",   "label": "Satin",
+             "maps_to_dataset": ["Satin", "Natural"]},
+            {"id": "dewy",    "label": "Dewy",
+             "maps_to_dataset": ["Dewy", "Radiant", "Luminous"]},
+            {"id": "no_pref", "label": "No preference",
+             "maps_to_dataset": ["Matte","Natural","Satin","Radiant","Dewy","Luminous"]}
+          ]
+        },
+        {
+          "id": "coverage",
+          "prompt": "How much coverage do you want?",
+          "help": "Light = evens out tone, freckles show. Medium = covers most redness/dark spots. Full = covers acne, scars, most discoloration.",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "light",   "label": "Light",
+             "maps_to_dataset": ["Sheer", "Light", "Light-Medium"]},
+            {"id": "medium",  "label": "Medium",
+             "maps_to_dataset": ["Light-Medium", "Medium", "Medium-Full"]},
+            {"id": "full",    "label": "Full",
+             "maps_to_dataset": ["Medium-Full", "Full"]},
+            {"id": "no_pref", "label": "No preference",
+             "maps_to_dataset": ["Sheer","Light","Light-Medium","Medium","Medium-Full","Full"]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "constraints",
+      "title": "Extra constraints",
+      "questions": [
+        {
+          "id": "fragrance_free",
+          "prompt": "Do you need the product to be fragrance-free?",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "required",  "label": "Required — must be fragrance-free"},
+            {"id": "preferred", "label": "Preferred — nice to have"},
+            {"id": "no_pref",   "label": "No preference"}
+          ]
+        },
+        {
+          "id": "non_comedogenic",
+          "prompt": "Do you need it to be non-comedogenic (won't clog pores)?",
+          "help": "Recommended if you selected acne-prone or oily above.",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "required",  "label": "Required"},
+            {"id": "preferred", "label": "Preferred"},
+            {"id": "no_pref",   "label": "No preference"}
+          ]
+        },
+        {
+          "id": "cruelty_free",
+          "prompt": "Do you need it to be cruelty-free / vegan-friendly?",
+          "type": "single",
+          "required": true,
+          "options": [
+            {"id": "cruelty_free_required", "label": "Cruelty-free required"},
+            {"id": "vegan_required",        "label": "Vegan required (stricter)"},
+            {"id": "preferred",             "label": "Preferred"},
+            {"id": "no_pref",               "label": "No preference"}
+          ]
+        },
+        {
+          "id": "price_range",
+          "prompt": "What's your price range (USD)?",
+          "help": "Drugstore ≲$20 · Mid $20–40 · Prestige $40–60 · Luxury $60+. Or enter a custom max.",
+          "type": "single_or_number",
+          "required": true,
+          "options": [
+            {"id": "drugstore", "label": "Drugstore (≤ $20)",     "max_usd": 20},
+            {"id": "mid",       "label": "Mid-range ($20 – $40)", "max_usd": 40},
+            {"id": "prestige",  "label": "Prestige ($40 – $60)",  "max_usd": 60},
+            {"id": "luxury",    "label": "Luxury ($60+)",          "max_usd": 1000},
+            {"id": "custom",    "label": "Custom — I'll enter my own max"},
+            {"id": "no_pref",   "label": "No budget cap",          "max_usd": 1000}
+          ],
+          "number_prompt_if": "custom",
+          "number_prompt": "Enter your maximum price in USD (e.g. 35):",
+          "number_min": 1,
+          "number_max": 1000
+        },
+        {
+          "id": "spf_needed",
+          "prompt": "Do you want built-in SPF?",
+          "type": "single",
+          "required": false,
+          "options": [
+            {"id": "yes",     "label": "Yes — SPF 15+ preferred"},
+            {"id": "yes_30",  "label": "Yes — SPF 30+ preferred"},
+            {"id": "no_pref", "label": "No preference"}
+          ]
+        }
+      ]
+    }
+  ]
+}

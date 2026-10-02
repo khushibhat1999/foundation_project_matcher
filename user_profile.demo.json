@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "notes": "Demo profile: medium-depth warm-toned user, oily+acne-prone, wants matte medium-coverage foundation with fragrance-free preference and mid-range budget.",
+  "answers": {
+    "skin_type": ["oily", "acne_prone"],
+    "undertone": "warm",
+    "skin_depth": "medium",
+    "finish": ["matte", "natural"],
+    "coverage": "medium",
+    "fragrance_free": "preferred",
+    "non_comedogenic": "preferred",
+    "cruelty_free": "preferred",
+    "price_range": "prestige",
+    "spf_needed": "no_pref"
+  },
+  "resolved": {
+    "skin_type": {"selected": ["oily", "acne_prone"], "maps_to_dataset": null},
+    "undertone": "warm",
+    "skin_depth": "medium",
+    "finish":     {"selected": ["matte", "natural"], "maps_to_dataset": ["Matte", "Natural", "Satin"]},
+    "coverage":   {"selected": "medium", "maps_to_dataset": ["Light-Medium", "Medium", "Medium-Full"]},
+    "fragrance_free": "preferred",
+    "non_comedogenic": "preferred",
+    "cruelty_free":   "preferred",
+    "price_range":    {"selected": "prestige", "max_usd": 60},
+    "spf_needed":     "no_pref"
+  }
+}

@@ -1,0 +1,292 @@
+brand,product_name,shade_name,shade_code,shade_depth_bucket,undertone_bucket,finish,coverage,skin_type_suitability,spf,fragrance_free,price_usd,ingredient_notes
+Fenty Beauty,Pro Filt'r Soft Matte Longwear Foundation,110,110,Fair,Cool,Matte,Medium-Full,"Oily, Combination, Normal",0,True,42.0,"Water-based, climate-adaptive; grape seed extract; long-wear polymers."
+Fenty Beauty,Pro Filt'r Soft Matte Longwear Foundation,240,240,Light-Medium,Warm,Matte,Medium-Full,"Oily, Combination, Normal",0,True,42.0,"Water-based, climate-adaptive; grape seed extract; long-wear polymers."
+Fenty Beauty,Pro Filt'r Soft Matte Longwear Foundation,410,410,Tan,Warm,Matte,Medium-Full,"Oily, Combination, Normal",0,True,42.0,"Water-based, climate-adaptive; grape seed extract; long-wear polymers."
+Fenty Beauty,Pro Filt'r Soft Matte Longwear Foundation,498,498,Rich,Cool,Matte,Medium-Full,"Oily, Combination, Normal",0,True,42.0,"Water-based, climate-adaptive; grape seed extract; long-wear polymers."
+Fenty Beauty,Eaze Drop Blurring Skin Tint,2,2,Fair,Neutral,Natural,Sheer,All,0,True,32.0,Water-gel; blurring powders; kalahari melon; lightweight silicones.
+Fenty Beauty,Eaze Drop Blurring Skin Tint,6,6,Light-Medium,Warm,Natural,Sheer,All,0,True,32.0,Water-gel; blurring powders; kalahari melon; lightweight silicones.
+Fenty Beauty,Eaze Drop Blurring Skin Tint,11,11,Medium,Neutral,Natural,Sheer,All,0,True,32.0,Water-gel; blurring powders; kalahari melon; lightweight silicones.
+Fenty Beauty,Eaze Drop Blurring Skin Tint,17,17,Tan,Warm,Natural,Sheer,All,0,True,32.0,Water-gel; blurring powders; kalahari melon; lightweight silicones.
+Fenty Beauty,Eaze Drop Blurring Skin Tint,22,22,Deep,Neutral,Natural,Sheer,All,0,True,32.0,Water-gel; blurring powders; kalahari melon; lightweight silicones.
+MAC,Studio Fix Fluid SPF 15,NW10,NW10,Fair,Cool,Matte,Medium-Full,"Oily, Combination",15,False,36.0,Silica; talc; titanium/zinc SPF filters; oil-controlling powders.
+MAC,Studio Fix Fluid SPF 15,NC25,NC25,Light-Medium,Warm,Matte,Medium-Full,"Oily, Combination",15,False,36.0,Silica; talc; titanium/zinc SPF filters; oil-controlling powders.
+MAC,Studio Fix Fluid SPF 15,NC45,NC45,Tan,Warm,Matte,Medium-Full,"Oily, Combination",15,False,36.0,Silica; talc; titanium/zinc SPF filters; oil-controlling powders.
+MAC,Studio Fix Fluid SPF 15,NW58,NW58,Rich,Warm,Matte,Medium-Full,"Oily, Combination",15,False,36.0,Silica; talc; titanium/zinc SPF filters; oil-controlling powders.
+MAC,Studio Radiance Serum-Powered Foundation,NC15,NC15,Light,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",0,False,42.0,Hyaluronic acid; glycerin; skincare-serum base.
+MAC,Studio Radiance Serum-Powered Foundation,NW25,NW25,Light-Medium,Neutral-Warm,Radiant,Light-Medium,"Dry, Normal, Combination",0,False,42.0,Hyaluronic acid; glycerin; skincare-serum base.
+MAC,Studio Radiance Serum-Powered Foundation,NC42,NC42,Medium-Tan,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",0,False,42.0,Hyaluronic acid; glycerin; skincare-serum base.
+MAC,Studio Radiance Serum-Powered Foundation,NW47,NW47,Tan,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",0,False,42.0,Hyaluronic acid; glycerin; skincare-serum base.
+MAC,Studio Radiance Serum-Powered Foundation,NW58,NW58,Deep,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",0,False,42.0,Hyaluronic acid; glycerin; skincare-serum base.
+NARS,Natural Radiant Longwear Foundation,Mont Blanc,MB,Fair,Neutral-Cool,Radiant,Medium,"Normal, Combination, Dry",0,False,52.0,Skin-tone optimizing complex; hyaluronic acid; 16-hr wear.
+NARS,Natural Radiant Longwear Foundation,Punjab,PJ,Light-Medium,Warm,Radiant,Medium,"Normal, Combination, Dry",0,False,52.0,Skin-tone optimizing complex; hyaluronic acid; 16-hr wear.
+NARS,Natural Radiant Longwear Foundation,Syracuse,SY,Tan,Warm,Radiant,Medium,"Normal, Combination, Dry",0,False,52.0,Skin-tone optimizing complex; hyaluronic acid; 16-hr wear.
+NARS,Natural Radiant Longwear Foundation,Marquises,MQ,Rich,Warm,Radiant,Medium,"Normal, Combination, Dry",0,False,52.0,Skin-tone optimizing complex; hyaluronic acid; 16-hr wear.
+NARS,Sheer Glow Foundation,Siberia,SI,Fair,Cool,Radiant,Light-Medium,"Normal, Dry, Combination",0,False,52.0,Vitamin C; turmeric extract; buildable water-in-oil emulsion.
+NARS,Sheer Glow Foundation,Gobi,GB,Light,Neutral,Radiant,Light-Medium,"Normal, Dry, Combination",0,False,52.0,Vitamin C; turmeric extract; buildable water-in-oil emulsion.
+NARS,Sheer Glow Foundation,Fiji,FJ,Light-Medium,Warm,Radiant,Light-Medium,"Normal, Dry, Combination",0,False,52.0,Vitamin C; turmeric extract; buildable water-in-oil emulsion.
+NARS,Sheer Glow Foundation,New Orleans,NO,Medium-Tan,Neutral,Radiant,Light-Medium,"Normal, Dry, Combination",0,False,52.0,Vitamin C; turmeric extract; buildable water-in-oil emulsion.
+NARS,Sheer Glow Foundation,Trinidad,TR,Deep,Warm,Radiant,Light-Medium,"Normal, Dry, Combination",0,False,52.0,Vitamin C; turmeric extract; buildable water-in-oil emulsion.
+NARS,Soft Matte Complete Foundation,Mont Blanc,MB,Fair,Neutral-Cool,Matte,Full,"Oily, Combination",0,False,55.0,Full-coverage cream-powder hybrid; oil-absorbing polymers.
+NARS,Soft Matte Complete Foundation,Vallauris,VL,Light,Neutral,Matte,Full,"Oily, Combination",0,False,55.0,Full-coverage cream-powder hybrid; oil-absorbing polymers.
+NARS,Soft Matte Complete Foundation,Punjab,PJ,Light-Medium,Warm,Matte,Full,"Oily, Combination",0,False,55.0,Full-coverage cream-powder hybrid; oil-absorbing polymers.
+NARS,Soft Matte Complete Foundation,Cadiz,CD,Medium-Tan,Warm,Matte,Full,"Oily, Combination",0,False,55.0,Full-coverage cream-powder hybrid; oil-absorbing polymers.
+NARS,Soft Matte Complete Foundation,Macao,MC,Deep,Neutral,Matte,Full,"Oily, Combination",0,False,55.0,Full-coverage cream-powder hybrid; oil-absorbing polymers.
+Estée Lauder,Double Wear Stay-in-Place Foundation SPF 10,Fresco 2C3,2C3,Light,Cool,Natural,Full,"Oily, Combination, Normal",10,True,52.0,24-hr transfer-resistant; silicone film-formers; titanium dioxide SPF.
+Estée Lauder,Double Wear Stay-in-Place Foundation SPF 10,Desert Beige 2N1,2N1,Light-Medium,Neutral,Natural,Full,"Oily, Combination, Normal",10,True,52.0,24-hr transfer-resistant; silicone film-formers; titanium dioxide SPF.
+Estée Lauder,Double Wear Stay-in-Place Foundation SPF 10,Tawny 3W1,3W1,Medium,Warm,Natural,Full,"Oily, Combination, Normal",10,True,52.0,24-hr transfer-resistant; silicone film-formers; titanium dioxide SPF.
+Estée Lauder,Double Wear Stay-in-Place Foundation SPF 10,Espresso 7N1,7N1,Rich,Neutral,Natural,Full,"Oily, Combination, Normal",10,True,52.0,24-hr transfer-resistant; silicone film-formers; titanium dioxide SPF.
+Maybelline,Fit Me Matte + Poreless Foundation,Porcelain,110,Fair,Cool,Matte,Medium,"Oily, Combination",0,False,8.99,Micro-powders; blurring pigments; drugstore staple.
+Maybelline,Fit Me Matte + Poreless Foundation,Classic Ivory,120,Light,Neutral,Matte,Medium,"Oily, Combination",0,False,8.99,Micro-powders; blurring pigments; drugstore staple.
+Maybelline,Fit Me Matte + Poreless Foundation,Natural Beige,220,Light-Medium,Warm,Matte,Medium,"Oily, Combination",0,False,8.99,Micro-powders; blurring pigments; drugstore staple.
+Maybelline,Fit Me Matte + Poreless Foundation,Mocha,355,Deep,Warm,Matte,Medium,"Oily, Combination",0,False,8.99,Micro-powders; blurring pigments; drugstore staple.
+Maybelline,Fit Me Matte + Poreless Foundation,Espresso,375,Rich,Warm,Matte,Medium,"Oily, Combination",0,False,8.99,Micro-powders; blurring pigments; drugstore staple.
+Maybelline,Fit Me Dewy + Smooth Foundation SPF 18,Ivory,115,Fair,Neutral,Dewy,Light-Medium,"Dry, Normal",18,False,8.99,Water-based; glycerin; chemical SPF filters.
+Maybelline,Fit Me Dewy + Smooth Foundation SPF 18,Classic Beige,230,Light-Medium,Neutral,Dewy,Light-Medium,"Dry, Normal",18,False,8.99,Water-based; glycerin; chemical SPF filters.
+Maybelline,Fit Me Dewy + Smooth Foundation SPF 18,Warm Sun,310,Medium,Warm,Dewy,Light-Medium,"Dry, Normal",18,False,8.99,Water-based; glycerin; chemical SPF filters.
+Maybelline,Fit Me Dewy + Smooth Foundation SPF 18,Coconut,355,Deep,Warm,Dewy,Light-Medium,"Dry, Normal",18,False,8.99,Water-based; glycerin; chemical SPF filters.
+Maybelline,Super Stay 24H Full Coverage Foundation,Ivory,112,Fair,Neutral,Matte,Full,"Oily, Combination, Normal",0,False,12.99,Micro-flex technology; 24-hr wear; transfer-resistant film.
+Maybelline,Super Stay 24H Full Coverage Foundation,Natural Beige,220,Light-Medium,Warm,Matte,Full,"Oily, Combination, Normal",0,False,12.99,Micro-flex technology; 24-hr wear; transfer-resistant film.
+Maybelline,Super Stay 24H Full Coverage Foundation,Truffle,362,Medium-Tan,Neutral,Matte,Full,"Oily, Combination, Normal",0,False,12.99,Micro-flex technology; 24-hr wear; transfer-resistant film.
+Maybelline,Super Stay 24H Full Coverage Foundation,Mocha,368,Deep,Warm,Matte,Full,"Oily, Combination, Normal",0,False,12.99,Micro-flex technology; 24-hr wear; transfer-resistant film.
+L'Oréal Paris,True Match Super-Blendable Foundation SPF 17,Porcelain,N1,Fair,Neutral,Natural,Medium,"Normal, Combination, Dry",17,False,12.99,Precise Match Technology; chemical SPF; grapeseed oil.
+L'Oréal Paris,True Match Super-Blendable Foundation SPF 17,Light Ivory,W2,Light,Warm,Natural,Medium,"Normal, Combination, Dry",17,False,12.99,Precise Match Technology; chemical SPF; grapeseed oil.
+L'Oréal Paris,True Match Super-Blendable Foundation SPF 17,Sand Beige,N4,Light-Medium,Neutral,Natural,Medium,"Normal, Combination, Dry",17,False,12.99,Precise Match Technology; chemical SPF; grapeseed oil.
+L'Oréal Paris,True Match Super-Blendable Foundation SPF 17,Cocoa,N9,Deep,Neutral,Natural,Medium,"Normal, Combination, Dry",17,False,12.99,Precise Match Technology; chemical SPF; grapeseed oil.
+L'Oréal Paris,True Match Super-Blendable Foundation SPF 17,Ebony,C10,Rich,Cool,Natural,Medium,"Normal, Combination, Dry",17,False,12.99,Precise Match Technology; chemical SPF; grapeseed oil.
+L'Oréal Paris,Infallible 24H Fresh Wear Foundation,Porcelain,100,Fair,Neutral,Natural,Full,"Normal, Combination, Oily",0,False,15.99,Breathable film-formers; transfer-resistant; up to 24-hr wear.
+L'Oréal Paris,Infallible 24H Fresh Wear Foundation,Ivory Buff,125,Light,Warm,Natural,Full,"Normal, Combination, Oily",0,False,15.99,Breathable film-formers; transfer-resistant; up to 24-hr wear.
+L'Oréal Paris,Infallible 24H Fresh Wear Foundation,True Beige,200,Light-Medium,Neutral,Natural,Full,"Normal, Combination, Oily",0,False,15.99,Breathable film-formers; transfer-resistant; up to 24-hr wear.
+L'Oréal Paris,Infallible 24H Fresh Wear Foundation,Deep Amber,410,Tan,Warm,Natural,Full,"Normal, Combination, Oily",0,False,15.99,Breathable film-formers; transfer-resistant; up to 24-hr wear.
+L'Oréal Paris,Infallible 24H Fresh Wear Foundation,Espresso,525,Deep,Neutral,Natural,Full,"Normal, Combination, Oily",0,False,15.99,Breathable film-formers; transfer-resistant; up to 24-hr wear.
+Rare Beauty,Liquid Touch Weightless Foundation,110C,110C,Fair,Cool,Natural,Light-Medium,All,0,True,31.0,"Lotus, gardenia & water-lily complex; buildable; skincare-first."
+Rare Beauty,Liquid Touch Weightless Foundation,230W,230W,Light-Medium,Warm,Natural,Light-Medium,All,0,True,31.0,"Lotus, gardenia & water-lily complex; buildable; skincare-first."
+Rare Beauty,Liquid Touch Weightless Foundation,400W,400W,Tan,Warm,Natural,Light-Medium,All,0,True,31.0,"Lotus, gardenia & water-lily complex; buildable; skincare-first."
+Rare Beauty,Liquid Touch Weightless Foundation,540W,540W,Rich,Warm,Natural,Light-Medium,All,0,True,31.0,"Lotus, gardenia & water-lily complex; buildable; skincare-first."
+Charlotte Tilbury,Airbrush Flawless Foundation,2 Cool,2C,Fair,Cool,Matte,Full,"Combination, Oily, Normal",0,False,49.0,Blur-expanding pigments; hyaluronic acid; replenium; 24-hr wear.
+Charlotte Tilbury,Airbrush Flawless Foundation,4 Neutral,4N,Light,Neutral,Matte,Full,"Combination, Oily, Normal",0,False,49.0,Blur-expanding pigments; hyaluronic acid; replenium; 24-hr wear.
+Charlotte Tilbury,Airbrush Flawless Foundation,7 Warm,7W,Light-Medium,Warm,Matte,Full,"Combination, Oily, Normal",0,False,49.0,Blur-expanding pigments; hyaluronic acid; replenium; 24-hr wear.
+Charlotte Tilbury,Airbrush Flawless Foundation,13 Warm,13W,Tan,Warm,Matte,Full,"Combination, Oily, Normal",0,False,49.0,Blur-expanding pigments; hyaluronic acid; replenium; 24-hr wear.
+Charlotte Tilbury,Airbrush Flawless Foundation,15 Cool,15C,Deep,Cool,Matte,Full,"Combination, Oily, Normal",0,False,49.0,Blur-expanding pigments; hyaluronic acid; replenium; 24-hr wear.
+Charlotte Tilbury,Beautiful Skin Foundation,1 Fair Cool,1CF,Fair,Cool,Radiant,Light-Medium,"Dry, Normal, Combination",20,False,49.0,Hyaluronic acid; bamboo extract; polyglutamic acid.
+Charlotte Tilbury,Beautiful Skin Foundation,5 Neutral,5N,Light-Medium,Neutral,Radiant,Light-Medium,"Dry, Normal, Combination",20,False,49.0,Hyaluronic acid; bamboo extract; polyglutamic acid.
+Charlotte Tilbury,Beautiful Skin Foundation,9 Warm,9W,Medium,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",20,False,49.0,Hyaluronic acid; bamboo extract; polyglutamic acid.
+Charlotte Tilbury,Beautiful Skin Foundation,14 Neutral,14N,Tan,Neutral,Radiant,Light-Medium,"Dry, Normal, Combination",20,False,49.0,Hyaluronic acid; bamboo extract; polyglutamic acid.
+Charlotte Tilbury,Beautiful Skin Foundation,17 Warm,17W,Deep,Warm,Radiant,Light-Medium,"Dry, Normal, Combination",20,False,49.0,Hyaluronic acid; bamboo extract; polyglutamic acid.
+Dior,Dior Forever 24H Wear High Perfection SPF 20,0N Neutral,0N,Fair,Neutral,Matte,Full,"Oily, Combination",20,False,62.0,Floral skincare complex; up to 24-hr; matte SPF filters.
+Dior,Dior Forever 24H Wear High Perfection SPF 20,3CR Cool Rosy,3CR,Light-Medium,Cool,Matte,Full,"Oily, Combination",20,False,62.0,Floral skincare complex; up to 24-hr; matte SPF filters.
+Dior,Dior Forever 24H Wear High Perfection SPF 20,5N Neutral,5N,Medium-Tan,Neutral,Matte,Full,"Oily, Combination",20,False,62.0,Floral skincare complex; up to 24-hr; matte SPF filters.
+Dior,Dior Forever 24H Wear High Perfection SPF 20,9N Neutral,9N,Rich,Neutral,Matte,Full,"Oily, Combination",20,False,62.0,Floral skincare complex; up to 24-hr; matte SPF filters.
+Dior,Dior Forever Skin Glow SPF 20,1N Neutral,1N,Fair,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",20,False,62.0,Floral skincare; radiance boosters; hydration up to 24-hr.
+Dior,Dior Forever Skin Glow SPF 20,3N Neutral,3N,Light-Medium,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",20,False,62.0,Floral skincare; radiance boosters; hydration up to 24-hr.
+Dior,Dior Forever Skin Glow SPF 20,4WP Warm Peach,4WP,Medium,Warm,Radiant,Medium-Full,"Normal, Dry, Combination",20,False,62.0,Floral skincare; radiance boosters; hydration up to 24-hr.
+Dior,Dior Forever Skin Glow SPF 20,6N Neutral,6N,Tan,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",20,False,62.0,Floral skincare; radiance boosters; hydration up to 24-hr.
+Dior,Dior Forever Skin Glow SPF 20,8N Neutral,8N,Deep,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",20,False,62.0,Floral skincare; radiance boosters; hydration up to 24-hr.
+YSL Beauty,All Hours Precise Angles Longwear Foundation,LN1,LN1,Fair,Neutral,Matte,Full,"Oily, Combination, Normal",30,False,55.0,Hyaluronic acid; 24-hr matte; broad-spectrum SPF 30.
+YSL Beauty,All Hours Precise Angles Longwear Foundation,LC2,LC2,Light,Cool,Matte,Full,"Oily, Combination, Normal",30,False,55.0,Hyaluronic acid; 24-hr matte; broad-spectrum SPF 30.
+YSL Beauty,All Hours Precise Angles Longwear Foundation,B40,B40,Light-Medium,Warm,Matte,Full,"Oily, Combination, Normal",30,False,55.0,Hyaluronic acid; 24-hr matte; broad-spectrum SPF 30.
+YSL Beauty,All Hours Precise Angles Longwear Foundation,DN2,DN2,Deep,Neutral,Matte,Full,"Oily, Combination, Normal",30,False,55.0,Hyaluronic acid; 24-hr matte; broad-spectrum SPF 30.
+YSL Beauty,All Hours Precise Angles Longwear Foundation,DW5,DW5,Rich,Warm,Matte,Full,"Oily, Combination, Normal",30,False,55.0,Hyaluronic acid; 24-hr matte; broad-spectrum SPF 30.
+YSL Beauty,Touche Éclat Le Teint Foundation SPF 22,BR20,BR20,Fair,Cool,Radiant,Medium,"Normal, Dry, Combination",22,False,64.0,Light-reflecting pigments; hyaluronic acid; radiance boosters.
+YSL Beauty,Touche Éclat Le Teint Foundation SPF 22,B40,B40,Light-Medium,Neutral-Warm,Radiant,Medium,"Normal, Dry, Combination",22,False,64.0,Light-reflecting pigments; hyaluronic acid; radiance boosters.
+YSL Beauty,Touche Éclat Le Teint Foundation SPF 22,BR50,BR50,Medium,Warm,Radiant,Medium,"Normal, Dry, Combination",22,False,64.0,Light-reflecting pigments; hyaluronic acid; radiance boosters.
+YSL Beauty,Touche Éclat Le Teint Foundation SPF 22,BR70,BR70,Tan,Warm,Radiant,Medium,"Normal, Dry, Combination",22,False,64.0,Light-reflecting pigments; hyaluronic acid; radiance boosters.
+YSL Beauty,Touche Éclat Le Teint Foundation SPF 22,BR80,BR80,Deep,Warm,Radiant,Medium,"Normal, Dry, Combination",22,False,64.0,Light-reflecting pigments; hyaluronic acid; radiance boosters.
+Giorgio Armani,Luminous Silk Perfect Glow Flawless Foundation,2,2,Fair,Cool,Luminous,Medium,"Normal, Dry, Combination",0,False,69.0,Micro-fil technology; glycerin; buildable second-skin finish.
+Giorgio Armani,Luminous Silk Perfect Glow Flawless Foundation,6.5,6.5,Light-Medium,Warm,Luminous,Medium,"Normal, Dry, Combination",0,False,69.0,Micro-fil technology; glycerin; buildable second-skin finish.
+Giorgio Armani,Luminous Silk Perfect Glow Flawless Foundation,10,10,Tan,Neutral,Luminous,Medium,"Normal, Dry, Combination",0,False,69.0,Micro-fil technology; glycerin; buildable second-skin finish.
+Giorgio Armani,Luminous Silk Perfect Glow Flawless Foundation,15.5,15.5,Rich,Warm,Luminous,Medium,"Normal, Dry, Combination",0,False,69.0,Micro-fil technology; glycerin; buildable second-skin finish.
+Giorgio Armani,Power Fabric+ Longwear High Coverage Foundation SPF 25,2,2,Fair,Cool,Matte,Full,"Oily, Combination",25,False,69.0,High-coverage pigments; 16-hr wear; oil-controlling.
+Giorgio Armani,Power Fabric+ Longwear High Coverage Foundation SPF 25,4,4,Light,Neutral,Matte,Full,"Oily, Combination",25,False,69.0,High-coverage pigments; 16-hr wear; oil-controlling.
+Giorgio Armani,Power Fabric+ Longwear High Coverage Foundation SPF 25,6,6,Light-Medium,Warm,Matte,Full,"Oily, Combination",25,False,69.0,High-coverage pigments; 16-hr wear; oil-controlling.
+Giorgio Armani,Power Fabric+ Longwear High Coverage Foundation SPF 25,9,9,Medium-Tan,Warm,Matte,Full,"Oily, Combination",25,False,69.0,High-coverage pigments; 16-hr wear; oil-controlling.
+Giorgio Armani,Power Fabric+ Longwear High Coverage Foundation SPF 25,12,12,Deep,Neutral,Matte,Full,"Oily, Combination",25,False,69.0,High-coverage pigments; 16-hr wear; oil-controlling.
+Chanel,Les Beiges Water-Fresh Tint,Light Deep,LD,Fair,Neutral,Dewy,Sheer,All,0,False,75.0,Water-based micro-droplets; rose extract; buildable tint.
+Chanel,Les Beiges Water-Fresh Tint,Light,L,Light,Neutral,Dewy,Sheer,All,0,False,75.0,Water-based micro-droplets; rose extract; buildable tint.
+Chanel,Les Beiges Water-Fresh Tint,Medium Light,ML,Light-Medium,Warm,Dewy,Sheer,All,0,False,75.0,Water-based micro-droplets; rose extract; buildable tint.
+Chanel,Les Beiges Water-Fresh Tint,Deep,D,Tan,Warm,Dewy,Sheer,All,0,False,75.0,Water-based micro-droplets; rose extract; buildable tint.
+Chanel,Les Beiges Water-Fresh Tint,Deep Plus,DP,Deep,Warm,Dewy,Sheer,All,0,False,75.0,Water-based micro-droplets; rose extract; buildable tint.
+Chanel,Ultra Le Teint Velvet Blurring Smooth-Effect Foundation,BR12,BR12,Fair,Cool,Matte,Medium-Full,"Normal, Combination, Oily",15,False,68.0,Blurring powders; 24-hr comfort matte.
+Chanel,Ultra Le Teint Velvet Blurring Smooth-Effect Foundation,B30,B30,Light,Warm,Matte,Medium-Full,"Normal, Combination, Oily",15,False,68.0,Blurring powders; 24-hr comfort matte.
+Chanel,Ultra Le Teint Velvet Blurring Smooth-Effect Foundation,BR42,BR42,Light-Medium,Warm,Matte,Medium-Full,"Normal, Combination, Oily",15,False,68.0,Blurring powders; 24-hr comfort matte.
+Chanel,Ultra Le Teint Velvet Blurring Smooth-Effect Foundation,B70,B70,Medium-Tan,Warm,Matte,Medium-Full,"Normal, Combination, Oily",15,False,68.0,Blurring powders; 24-hr comfort matte.
+Chanel,Ultra Le Teint Velvet Blurring Smooth-Effect Foundation,BR152,BR152,Deep,Warm,Matte,Medium-Full,"Normal, Combination, Oily",15,False,68.0,Blurring powders; 24-hr comfort matte.
+Clinique,Even Better Makeup SPF 15,Ivory,CN 28,Fair,Neutral,Natural,Medium-Full,"Normal, Combination, Oily",15,True,36.0,Vitamin C; salicylic acid; brightening formula.
+Clinique,Even Better Makeup SPF 15,Vanilla,CN 52,Light-Medium,Neutral,Natural,Medium-Full,"Normal, Combination, Oily",15,True,36.0,Vitamin C; salicylic acid; brightening formula.
+Clinique,Even Better Makeup SPF 15,Sand,WN 76,Medium,Warm,Natural,Medium-Full,"Normal, Combination, Oily",15,True,36.0,Vitamin C; salicylic acid; brightening formula.
+Clinique,Even Better Makeup SPF 15,Amber,WN 114,Tan,Warm,Natural,Medium-Full,"Normal, Combination, Oily",15,True,36.0,Vitamin C; salicylic acid; brightening formula.
+Clinique,Even Better Makeup SPF 15,Espresso,WN 125,Deep,Warm,Natural,Medium-Full,"Normal, Combination, Oily",15,True,36.0,Vitamin C; salicylic acid; brightening formula.
+Clinique,Beyond Perfecting Foundation + Concealer,Alabaster,02,Fair,Cool,Natural,Full,"Normal, Combination, Dry",0,True,36.0,Blends concealer & foundation; 24-hr moisture-lock; hypoallergenic.
+Clinique,Beyond Perfecting Foundation + Concealer,Ivory,06,Light,Neutral,Natural,Full,"Normal, Combination, Dry",0,True,36.0,Blends concealer & foundation; 24-hr moisture-lock; hypoallergenic.
+Clinique,Beyond Perfecting Foundation + Concealer,Vanilla,09,Light-Medium,Warm,Natural,Full,"Normal, Combination, Dry",0,True,36.0,Blends concealer & foundation; 24-hr moisture-lock; hypoallergenic.
+Clinique,Beyond Perfecting Foundation + Concealer,Sand,14,Medium,Warm,Natural,Full,"Normal, Combination, Dry",0,True,36.0,Blends concealer & foundation; 24-hr moisture-lock; hypoallergenic.
+Clinique,Beyond Perfecting Foundation + Concealer,Golden,18,Tan,Warm,Natural,Full,"Normal, Combination, Dry",0,True,36.0,Blends concealer & foundation; 24-hr moisture-lock; hypoallergenic.
+Bobbi Brown,Skin Long-Wear Weightless Foundation SPF 15,Alabaster,0,Fair,Cool,Natural,Medium-Full,"Normal, Combination, Oily",15,True,52.0,Oil-free; hydration + oil control; 16-hr wear.
+Bobbi Brown,Skin Long-Wear Weightless Foundation SPF 15,Warm Ivory,1,Light,Warm,Natural,Medium-Full,"Normal, Combination, Oily",15,True,52.0,Oil-free; hydration + oil control; 16-hr wear.
+Bobbi Brown,Skin Long-Wear Weightless Foundation SPF 15,Beige,3,Light-Medium,Neutral,Natural,Medium-Full,"Normal, Combination, Oily",15,True,52.0,Oil-free; hydration + oil control; 16-hr wear.
+Bobbi Brown,Skin Long-Wear Weightless Foundation SPF 15,Warm Almond,5.75,Deep,Warm,Natural,Medium-Full,"Normal, Combination, Oily",15,True,52.0,Oil-free; hydration + oil control; 16-hr wear.
+Bobbi Brown,Skin Long-Wear Weightless Foundation SPF 15,Cool Espresso,8,Rich,Cool,Natural,Medium-Full,"Normal, Combination, Oily",15,True,52.0,Oil-free; hydration + oil control; 16-hr wear.
+Bobbi Brown,Intensive Skin Serum Foundation SPF 40,Porcelain,N-012,Fair,Neutral,Radiant,Medium,"Dry, Normal, Mature",40,True,79.0,Cordyceps mushroom; watermelon; broad-spectrum SPF 40 serum-foundation hybrid.
+Bobbi Brown,Intensive Skin Serum Foundation SPF 40,Natural,N-052,Light-Medium,Neutral,Radiant,Medium,"Dry, Normal, Mature",40,True,79.0,Cordyceps mushroom; watermelon; broad-spectrum SPF 40 serum-foundation hybrid.
+Bobbi Brown,Intensive Skin Serum Foundation SPF 40,Warm Beige,W-046,Medium,Warm,Radiant,Medium,"Dry, Normal, Mature",40,True,79.0,Cordyceps mushroom; watermelon; broad-spectrum SPF 40 serum-foundation hybrid.
+Bobbi Brown,Intensive Skin Serum Foundation SPF 40,Warm Almond,W-076,Tan,Warm,Radiant,Medium,"Dry, Normal, Mature",40,True,79.0,Cordyceps mushroom; watermelon; broad-spectrum SPF 40 serum-foundation hybrid.
+Bobbi Brown,Intensive Skin Serum Foundation SPF 40,Warm Chestnut,W-096,Deep,Warm,Radiant,Medium,"Dry, Normal, Mature",40,True,79.0,Cordyceps mushroom; watermelon; broad-spectrum SPF 40 serum-foundation hybrid.
+Too Faced,Born This Way Natural Finish Foundation,Snow,SN,Fair,Cool,Natural,Medium-Full,"Normal, Combination, Dry",0,False,42.0,Coconut water; alpine rose; hyaluronic acid.
+Too Faced,Born This Way Natural Finish Foundation,Warm Beige,WB,Light-Medium,Warm,Natural,Medium-Full,"Normal, Combination, Dry",0,False,42.0,Coconut water; alpine rose; hyaluronic acid.
+Too Faced,Born This Way Natural Finish Foundation,Mocha,MC,Tan,Warm,Natural,Medium-Full,"Normal, Combination, Dry",0,False,42.0,Coconut water; alpine rose; hyaluronic acid.
+Too Faced,Born This Way Natural Finish Foundation,Cocoa,CC,Rich,Warm,Natural,Medium-Full,"Normal, Combination, Dry",0,False,42.0,Coconut water; alpine rose; hyaluronic acid.
+Tarte,Amazonian Clay Full Coverage Foundation SPF 15,Fair,10N,Fair,Neutral,Matte,Full,"Oily, Combination",15,False,42.0,Amazonian clay; mineral SPF; oil-absorbing; 12-hr wear.
+Tarte,Amazonian Clay Full Coverage Foundation SPF 15,Light-Medium Neutral,27N,Light-Medium,Neutral,Matte,Full,"Oily, Combination",15,False,42.0,Amazonian clay; mineral SPF; oil-absorbing; 12-hr wear.
+Tarte,Amazonian Clay Full Coverage Foundation SPF 15,Medium Sand,35N,Medium,Warm,Matte,Full,"Oily, Combination",15,False,42.0,Amazonian clay; mineral SPF; oil-absorbing; 12-hr wear.
+Tarte,Amazonian Clay Full Coverage Foundation SPF 15,Deep Honey,56H,Deep,Warm,Matte,Full,"Oily, Combination",15,False,42.0,Amazonian clay; mineral SPF; oil-absorbing; 12-hr wear.
+Tarte,Amazonian Clay Full Coverage Foundation SPF 15,Rich Golden,60G,Rich,Warm,Matte,Full,"Oily, Combination",15,False,42.0,Amazonian clay; mineral SPF; oil-absorbing; 12-hr wear.
+Tarte,Shape Tape Full Coverage Foundation,12N Fair,12N,Fair,Neutral,Matte,Full,"Combination, Oily",0,False,42.0,Marine plant complex; hyaluronic acid; 16-hr wear.
+Tarte,Shape Tape Full Coverage Foundation,22N Light,22N,Light,Neutral,Matte,Full,"Combination, Oily",0,False,42.0,Marine plant complex; hyaluronic acid; 16-hr wear.
+Tarte,Shape Tape Full Coverage Foundation,35H Medium Honey,35H,Medium,Warm,Matte,Full,"Combination, Oily",0,False,42.0,Marine plant complex; hyaluronic acid; 16-hr wear.
+Tarte,Shape Tape Full Coverage Foundation,47S Tan Sand,47S,Tan,Warm,Matte,Full,"Combination, Oily",0,False,42.0,Marine plant complex; hyaluronic acid; 16-hr wear.
+Tarte,Shape Tape Full Coverage Foundation,57G Rich Golden,57G,Deep,Warm,Matte,Full,"Combination, Oily",0,False,42.0,Marine plant complex; hyaluronic acid; 16-hr wear.
+Make Up For Ever,HD Skin Undetectable Longwear Foundation,1N00 Alabaster,1N00,Fair,Neutral,Natural,Medium-Full,All,0,True,47.0,Micro-blurring powder + skincare; 24-hr; undetectable HD finish.
+Make Up For Ever,HD Skin Undetectable Longwear Foundation,2N22 Nude,2N22,Light-Medium,Neutral,Natural,Medium-Full,All,0,True,47.0,Micro-blurring powder + skincare; 24-hr; undetectable HD finish.
+Make Up For Ever,HD Skin Undetectable Longwear Foundation,3R48 Cinnamon,3R48,Tan,Cool,Natural,Medium-Full,All,0,True,47.0,Micro-blurring powder + skincare; 24-hr; undetectable HD finish.
+Make Up For Ever,HD Skin Undetectable Longwear Foundation,4N74 Chocolate,4N74,Rich,Neutral,Natural,Medium-Full,All,0,True,47.0,Micro-blurring powder + skincare; 24-hr; undetectable HD finish.
+Make Up For Ever,Ultra HD Invisible Cover Foundation,R210 Pink Alabaster,R210,Fair,Cool,Radiant,Medium,"Normal, Combination",0,False,47.0,Hyaluronic spheres; HD pigments for camera-ready finish.
+Make Up For Ever,Ultra HD Invisible Cover Foundation,Y245 Soft Sand,Y245,Light-Medium,Warm,Radiant,Medium,"Normal, Combination",0,False,47.0,Hyaluronic spheres; HD pigments for camera-ready finish.
+Make Up For Ever,Ultra HD Invisible Cover Foundation,Y415 Almond,Y415,Tan,Warm,Radiant,Medium,"Normal, Combination",0,False,47.0,Hyaluronic spheres; HD pigments for camera-ready finish.
+Make Up For Ever,Ultra HD Invisible Cover Foundation,R540 Dark Brown,R540,Rich,Cool,Radiant,Medium,"Normal, Combination",0,False,47.0,Hyaluronic spheres; HD pigments for camera-ready finish.
+Il Makiage,Woke Up Like This Flawless Base Foundation,Shade 20,20,Fair,Neutral,Satin,Full,All,0,False,44.0,Hyaluronic acid; caffeine; vitamin E; 24-hr wear.
+Il Makiage,Woke Up Like This Flawless Base Foundation,Shade 55,55,Light-Medium,Warm,Satin,Full,All,0,False,44.0,Hyaluronic acid; caffeine; vitamin E; 24-hr wear.
+Il Makiage,Woke Up Like This Flawless Base Foundation,Shade 130,130,Medium,Neutral,Satin,Full,All,0,False,44.0,Hyaluronic acid; caffeine; vitamin E; 24-hr wear.
+Il Makiage,Woke Up Like This Flawless Base Foundation,Shade 285,285,Deep,Warm,Satin,Full,All,0,False,44.0,Hyaluronic acid; caffeine; vitamin E; 24-hr wear.
+Il Makiage,Woke Up Like This Flawless Base Foundation,Shade 325,325,Rich,Neutral,Satin,Full,All,0,False,44.0,Hyaluronic acid; caffeine; vitamin E; 24-hr wear.
+Kosas,Revealer Skin Improving Foundation SPF 25,Tone 1.5,1.5,Fair,Neutral,Radiant,Medium,"All, Dry, Sensitive",25,True,42.0,Hyaluronic acid; niacinamide; peptides; mineral SPF (zinc/titanium).
+Kosas,Revealer Skin Improving Foundation SPF 25,Tone 5,5,Light-Medium,Neutral,Radiant,Medium,"All, Dry, Sensitive",25,True,42.0,Hyaluronic acid; niacinamide; peptides; mineral SPF (zinc/titanium).
+Kosas,Revealer Skin Improving Foundation SPF 25,Tone 8.5,8.5,Medium-Tan,Warm,Radiant,Medium,"All, Dry, Sensitive",25,True,42.0,Hyaluronic acid; niacinamide; peptides; mineral SPF (zinc/titanium).
+Kosas,Revealer Skin Improving Foundation SPF 25,Tone 11,11,Rich,Warm,Radiant,Medium,"All, Dry, Sensitive",25,True,42.0,Hyaluronic acid; niacinamide; peptides; mineral SPF (zinc/titanium).
+Ilia,Super Serum Skin Tint SPF 40,Rendezvous ST2,ST2,Fair,Cool,Dewy,Sheer,"Dry, Normal, Sensitive",40,True,48.0,Niacinamide; hyaluronic acid; plant-based squalane; non-nano zinc SPF.
+Ilia,Super Serum Skin Tint SPF 40,Formentera ST10,ST10,Light-Medium,Warm,Dewy,Sheer,"Dry, Normal, Sensitive",40,True,48.0,Niacinamide; hyaluronic acid; plant-based squalane; non-nano zinc SPF.
+Ilia,Super Serum Skin Tint SPF 40,Waikiki ST15,ST15,Tan,Neutral,Dewy,Sheer,"Dry, Normal, Sensitive",40,True,48.0,Niacinamide; hyaluronic acid; plant-based squalane; non-nano zinc SPF.
+Ilia,Super Serum Skin Tint SPF 40,Roque ST18,ST18,Rich,Warm,Dewy,Sheer,"Dry, Normal, Sensitive",40,True,48.0,Niacinamide; hyaluronic acid; plant-based squalane; non-nano zinc SPF.
+Ilia,True Skin Serum Foundation,Wake SF1,SF1,Fair,Neutral,Natural,Light-Medium,"Normal, Dry, Sensitive",0,True,54.0,Aloe leaf juice; hyaluronic acid; jojoba; clean-beauty formula.
+Ilia,True Skin Serum Foundation,Reti SF5,SF5,Light,Warm,Natural,Light-Medium,"Normal, Dry, Sensitive",0,True,54.0,Aloe leaf juice; hyaluronic acid; jojoba; clean-beauty formula.
+Ilia,True Skin Serum Foundation,Corse SF8,SF8,Light-Medium,Neutral,Natural,Light-Medium,"Normal, Dry, Sensitive",0,True,54.0,Aloe leaf juice; hyaluronic acid; jojoba; clean-beauty formula.
+Ilia,True Skin Serum Foundation,Yasawa SF12,SF12,Medium-Tan,Warm,Natural,Light-Medium,"Normal, Dry, Sensitive",0,True,54.0,Aloe leaf juice; hyaluronic acid; jojoba; clean-beauty formula.
+Ilia,True Skin Serum Foundation,Iona SF15,SF15,Deep,Neutral,Natural,Light-Medium,"Normal, Dry, Sensitive",0,True,54.0,Aloe leaf juice; hyaluronic acid; jojoba; clean-beauty formula.
+Merit,The Minimalist Perfecting Complexion Foundation Stick,Snow,N05,Fair,Neutral,Natural,Light-Medium,All,0,True,38.0,Bakuchiol; niacinamide; buildable stick; clean formula.
+Merit,The Minimalist Perfecting Complexion Foundation Stick,Buff,N20,Light,Warm,Natural,Light-Medium,All,0,True,38.0,Bakuchiol; niacinamide; buildable stick; clean formula.
+Merit,The Minimalist Perfecting Complexion Foundation Stick,Beach,N40,Light-Medium,Neutral,Natural,Light-Medium,All,0,True,38.0,Bakuchiol; niacinamide; buildable stick; clean formula.
+Merit,The Minimalist Perfecting Complexion Foundation Stick,Cocoa,N80,Tan,Neutral,Natural,Light-Medium,All,0,True,38.0,Bakuchiol; niacinamide; buildable stick; clean formula.
+Merit,The Minimalist Perfecting Complexion Foundation Stick,Espresso,N100,Deep,Warm,Natural,Light-Medium,All,0,True,38.0,Bakuchiol; niacinamide; buildable stick; clean formula.
+Laura Mercier,Tinted Moisturizer Natural Skin Perfector SPF 30,1N1 Porcelain,1N1,Fair,Neutral,Natural,Sheer,"Normal, Dry, Sensitive",30,True,52.0,Hydrating tint; chemical SPF; skincare-first formula.
+Laura Mercier,Tinted Moisturizer Natural Skin Perfector SPF 30,2N1 Nude,2N1,Light,Neutral,Natural,Sheer,"Normal, Dry, Sensitive",30,True,52.0,Hydrating tint; chemical SPF; skincare-first formula.
+Laura Mercier,Tinted Moisturizer Natural Skin Perfector SPF 30,3W1 Bisque,3W1,Light-Medium,Warm,Natural,Sheer,"Normal, Dry, Sensitive",30,True,52.0,Hydrating tint; chemical SPF; skincare-first formula.
+Laura Mercier,Tinted Moisturizer Natural Skin Perfector SPF 30,4W1 Tawny,4W1,Medium-Tan,Warm,Natural,Sheer,"Normal, Dry, Sensitive",30,True,52.0,Hydrating tint; chemical SPF; skincare-first formula.
+Laura Mercier,Tinted Moisturizer Natural Skin Perfector SPF 30,6N1 Mocha,6N1,Deep,Neutral,Natural,Sheer,"Normal, Dry, Sensitive",30,True,52.0,Hydrating tint; chemical SPF; skincare-first formula.
+Laura Mercier,Flawless Lumière Radiance-Perfecting Foundation SPF 30,1W1 Ivory,1W1,Fair,Warm,Radiant,Medium-Full,"Normal, Dry, Combination",30,True,52.0,Hyaluronic acid; vitamin E; luminous SPF 30 finish.
+Laura Mercier,Flawless Lumière Radiance-Perfecting Foundation SPF 30,2C1 Ecru,2C1,Light,Cool,Radiant,Medium-Full,"Normal, Dry, Combination",30,True,52.0,Hyaluronic acid; vitamin E; luminous SPF 30 finish.
+Laura Mercier,Flawless Lumière Radiance-Perfecting Foundation SPF 30,3N1 Buff,3N1,Light-Medium,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",30,True,52.0,Hyaluronic acid; vitamin E; luminous SPF 30 finish.
+Laura Mercier,Flawless Lumière Radiance-Perfecting Foundation SPF 30,4N2 Pecan,4N2,Medium-Tan,Neutral,Radiant,Medium-Full,"Normal, Dry, Combination",30,True,52.0,Hyaluronic acid; vitamin E; luminous SPF 30 finish.
+Laura Mercier,Flawless Lumière Radiance-Perfecting Foundation SPF 30,5W1 Amber,5W1,Tan,Warm,Radiant,Medium-Full,"Normal, Dry, Combination",30,True,52.0,Hyaluronic acid; vitamin E; luminous SPF 30 finish.
+Hourglass,Vanish Seamless Finish Foundation Stick,Vanilla,VN,Fair,Warm,Satin,Full,"Normal, Combination",0,True,56.0,Waterless formula; blurring pigments; second-skin stick.
+Hourglass,Vanish Seamless Finish Foundation Stick,Shell,SH,Light,Neutral,Satin,Full,"Normal, Combination",0,True,56.0,Waterless formula; blurring pigments; second-skin stick.
+Hourglass,Vanish Seamless Finish Foundation Stick,Beige,BG,Light-Medium,Neutral,Satin,Full,"Normal, Combination",0,True,56.0,Waterless formula; blurring pigments; second-skin stick.
+Hourglass,Vanish Seamless Finish Foundation Stick,Chestnut,CN,Tan,Warm,Satin,Full,"Normal, Combination",0,True,56.0,Waterless formula; blurring pigments; second-skin stick.
+Hourglass,Vanish Seamless Finish Foundation Stick,Espresso,EP,Deep,Neutral,Satin,Full,"Normal, Combination",0,True,56.0,Waterless formula; blurring pigments; second-skin stick.
+Hourglass,Ambient Soft Glow Foundation,2,2,Fair,Neutral,Radiant,Medium,"Normal, Dry, Combination",0,True,59.0,Photoluminescent technology; soft-focus glow; buildable.
+Hourglass,Ambient Soft Glow Foundation,4.5,4.5,Light-Medium,Warm,Radiant,Medium,"Normal, Dry, Combination",0,True,59.0,Photoluminescent technology; soft-focus glow; buildable.
+Hourglass,Ambient Soft Glow Foundation,6,6,Medium,Neutral,Radiant,Medium,"Normal, Dry, Combination",0,True,59.0,Photoluminescent technology; soft-focus glow; buildable.
+Hourglass,Ambient Soft Glow Foundation,9,9,Tan,Warm,Radiant,Medium,"Normal, Dry, Combination",0,True,59.0,Photoluminescent technology; soft-focus glow; buildable.
+Hourglass,Ambient Soft Glow Foundation,11,11,Deep,Neutral,Radiant,Medium,"Normal, Dry, Combination",0,True,59.0,Photoluminescent technology; soft-focus glow; buildable.
+Pat McGrath Labs,Skin Fetish: Sublime Perfection Foundation,Light 3,LT3,Fair,Cool,Satin,Medium-Full,All,0,False,72.0,Photo-illuminating pigments; hyaluronic acid; skin-cushion complex.
+Pat McGrath Labs,Skin Fetish: Sublime Perfection Foundation,Light 8,LT8,Light,Neutral,Satin,Medium-Full,All,0,False,72.0,Photo-illuminating pigments; hyaluronic acid; skin-cushion complex.
+Pat McGrath Labs,Skin Fetish: Sublime Perfection Foundation,Medium 17,MD17,Light-Medium,Warm,Satin,Medium-Full,All,0,False,72.0,Photo-illuminating pigments; hyaluronic acid; skin-cushion complex.
+Pat McGrath Labs,Skin Fetish: Sublime Perfection Foundation,Deep 32,DP32,Tan,Neutral,Satin,Medium-Full,All,0,False,72.0,Photo-illuminating pigments; hyaluronic acid; skin-cushion complex.
+Pat McGrath Labs,Skin Fetish: Sublime Perfection Foundation,Deep 36,DP36,Deep,Warm,Satin,Medium-Full,All,0,False,72.0,Photo-illuminating pigments; hyaluronic acid; skin-cushion complex.
+Huda Beauty,FauxFilter Luminous Matte Foundation,Marshmallow,100N,Fair,Neutral,Matte,Full,"Combination, Oily",0,False,44.0,Luminous-matte hybrid pigments; 24-hr wear.
+Huda Beauty,FauxFilter Luminous Matte Foundation,Sable,240N,Light-Medium,Neutral,Matte,Full,"Combination, Oily",0,False,44.0,Luminous-matte hybrid pigments; 24-hr wear.
+Huda Beauty,FauxFilter Luminous Matte Foundation,Amaretti,400N,Tan,Neutral,Matte,Full,"Combination, Oily",0,False,44.0,Luminous-matte hybrid pigments; 24-hr wear.
+Huda Beauty,FauxFilter Luminous Matte Foundation,Chocolate Mousse,540N,Rich,Neutral,Matte,Full,"Combination, Oily",0,False,44.0,Luminous-matte hybrid pigments; 24-hr wear.
+Milk Makeup,Future Fluid All Over Medium Coverage Hydrating Concealer,Fair 1,F1,Fair,Cool,Natural,Medium,"Dry, Normal, Combination",0,True,26.0,Hyaluronic acid; concealer-foundation hybrid; vegan.
+Milk Makeup,Future Fluid All Over Medium Coverage Hydrating Concealer,Light 2,L2,Light,Neutral,Natural,Medium,"Dry, Normal, Combination",0,True,26.0,Hyaluronic acid; concealer-foundation hybrid; vegan.
+Milk Makeup,Future Fluid All Over Medium Coverage Hydrating Concealer,Medium 3,M3,Light-Medium,Warm,Natural,Medium,"Dry, Normal, Combination",0,True,26.0,Hyaluronic acid; concealer-foundation hybrid; vegan.
+Milk Makeup,Future Fluid All Over Medium Coverage Hydrating Concealer,Tan 5,T5,Medium-Tan,Warm,Natural,Medium,"Dry, Normal, Combination",0,True,26.0,Hyaluronic acid; concealer-foundation hybrid; vegan.
+Milk Makeup,Future Fluid All Over Medium Coverage Hydrating Concealer,Deep 7,D7,Deep,Neutral,Natural,Medium,"Dry, Normal, Combination",0,True,26.0,Hyaluronic acid; concealer-foundation hybrid; vegan.
+Glossier,Perfecting Skin Tint,G1,G1,Fair,Neutral,Natural,Sheer,All,0,True,26.0,Water-based; buildable; barely-there skin tint.
+Glossier,Perfecting Skin Tint,G4,G4,Light-Medium,Warm,Natural,Sheer,All,0,True,26.0,Water-based; buildable; barely-there skin tint.
+Glossier,Perfecting Skin Tint,G7,G7,Medium,Neutral,Natural,Sheer,All,0,True,26.0,Water-based; buildable; barely-there skin tint.
+Glossier,Perfecting Skin Tint,G10,G10,Tan,Warm,Natural,Sheer,All,0,True,26.0,Water-based; buildable; barely-there skin tint.
+Glossier,Perfecting Skin Tint,G12,G12,Deep,Neutral,Natural,Sheer,All,0,True,26.0,Water-based; buildable; barely-there skin tint.
+Glossier,Stretch Fluid Foundation,F1,F1,Fair,Neutral,Radiant,Light-Medium,"Normal, Dry",0,True,34.0,Snow mushroom; hyaluronic acid; skin-flex polymers.
+Glossier,Stretch Fluid Foundation,L3,L3,Light-Medium,Warm,Radiant,Light-Medium,"Normal, Dry",0,True,34.0,Snow mushroom; hyaluronic acid; skin-flex polymers.
+Glossier,Stretch Fluid Foundation,M5,M5,Medium,Neutral,Radiant,Light-Medium,"Normal, Dry",0,True,34.0,Snow mushroom; hyaluronic acid; skin-flex polymers.
+Glossier,Stretch Fluid Foundation,D9,D9,Deep,Warm,Radiant,Light-Medium,"Normal, Dry",0,True,34.0,Snow mushroom; hyaluronic acid; skin-flex polymers.
+e.l.f.,Halo Glow Liquid Filter,Fair,1,Fair,Neutral,Luminous,Sheer,"Normal, Combination, Dry",0,False,15.0,Hyaluronic acid; squalane; light-reflecting pearls.
+e.l.f.,Halo Glow Liquid Filter,Light/Medium,3,Light-Medium,Neutral,Luminous,Sheer,"Normal, Combination, Dry",0,False,15.0,Hyaluronic acid; squalane; light-reflecting pearls.
+e.l.f.,Halo Glow Liquid Filter,Tan,6,Tan,Neutral,Luminous,Sheer,"Normal, Combination, Dry",0,False,15.0,Hyaluronic acid; squalane; light-reflecting pearls.
+e.l.f.,Halo Glow Liquid Filter,Deep,8,Rich,Neutral,Luminous,Sheer,"Normal, Combination, Dry",0,False,15.0,Hyaluronic acid; squalane; light-reflecting pearls.
+e.l.f.,Camo CC Cream SPF 30,Fair 140N,140N,Fair,Neutral,Natural,Full,All,30,True,15.0,Niacinamide; hyaluronic acid; peptides; chemical SPF 30.
+e.l.f.,Camo CC Cream SPF 30,Light 240W,240W,Light,Warm,Natural,Full,All,30,True,15.0,Niacinamide; hyaluronic acid; peptides; chemical SPF 30.
+e.l.f.,Camo CC Cream SPF 30,Medium 340C,340C,Light-Medium,Cool,Natural,Full,All,30,True,15.0,Niacinamide; hyaluronic acid; peptides; chemical SPF 30.
+e.l.f.,Camo CC Cream SPF 30,Tan 440W,440W,Tan,Warm,Natural,Full,All,30,True,15.0,Niacinamide; hyaluronic acid; peptides; chemical SPF 30.
+e.l.f.,Camo CC Cream SPF 30,Rich 540W,540W,Rich,Warm,Natural,Full,All,30,True,15.0,Niacinamide; hyaluronic acid; peptides; chemical SPF 30.
+NYX Professional Makeup,Can't Stop Won't Stop Full Coverage Foundation,Pale,CSWSF01,Fair,Cool,Matte,Full,"Oily, Combination, Normal",0,False,15.99,24-hr wear; waterproof; transfer-resistant film.
+NYX Professional Makeup,Can't Stop Won't Stop Full Coverage Foundation,Light Ivory,CSWSF04,Light,Neutral,Matte,Full,"Oily, Combination, Normal",0,False,15.99,24-hr wear; waterproof; transfer-resistant film.
+NYX Professional Makeup,Can't Stop Won't Stop Full Coverage Foundation,Buff,CSWSF10,Light-Medium,Warm,Matte,Full,"Oily, Combination, Normal",0,False,15.99,24-hr wear; waterproof; transfer-resistant film.
+NYX Professional Makeup,Can't Stop Won't Stop Full Coverage Foundation,Cappuccino,CSWSF17.5,Tan,Neutral,Matte,Full,"Oily, Combination, Normal",0,False,15.99,24-hr wear; waterproof; transfer-resistant film.
+NYX Professional Makeup,Can't Stop Won't Stop Full Coverage Foundation,Deep Ebony,CSWSF24,Rich,Cool,Matte,Full,"Oily, Combination, Normal",0,False,15.99,24-hr wear; waterproof; transfer-resistant film.
+Revlon,ColorStay Makeup for Combination/Oily Skin,Ivory,110,Fair,Cool,Matte,Medium-Full,"Combination, Oily",15,False,14.99,Oil-controlling; SoftFlex technology; 24-hr wear.
+Revlon,ColorStay Makeup for Combination/Oily Skin,Buff,150,Light,Neutral,Matte,Medium-Full,"Combination, Oily",15,False,14.99,Oil-controlling; SoftFlex technology; 24-hr wear.
+Revlon,ColorStay Makeup for Combination/Oily Skin,Natural Beige,220,Light-Medium,Warm,Matte,Medium-Full,"Combination, Oily",15,False,14.99,Oil-controlling; SoftFlex technology; 24-hr wear.
+Revlon,ColorStay Makeup for Combination/Oily Skin,Caramel,400,Tan,Warm,Matte,Medium-Full,"Combination, Oily",15,False,14.99,Oil-controlling; SoftFlex technology; 24-hr wear.
+Revlon,ColorStay Makeup for Combination/Oily Skin,Mahogany,440,Deep,Neutral,Matte,Medium-Full,"Combination, Oily",15,False,14.99,Oil-controlling; SoftFlex technology; 24-hr wear.
+CoverGirl,Clean Fresh Skin Milk Foundation,Fair 500,500,Fair,Neutral,Dewy,Sheer,"Normal, Dry, Sensitive",0,True,10.99,Aloe; cucumber; hyaluronic acid; vegan.
+CoverGirl,Clean Fresh Skin Milk Foundation,Light 510,510,Light,Warm,Dewy,Sheer,"Normal, Dry, Sensitive",0,True,10.99,Aloe; cucumber; hyaluronic acid; vegan.
+CoverGirl,Clean Fresh Skin Milk Foundation,Medium 530,530,Medium,Neutral,Dewy,Sheer,"Normal, Dry, Sensitive",0,True,10.99,Aloe; cucumber; hyaluronic acid; vegan.
+CoverGirl,Clean Fresh Skin Milk Foundation,Tan 550,550,Tan,Warm,Dewy,Sheer,"Normal, Dry, Sensitive",0,True,10.99,Aloe; cucumber; hyaluronic acid; vegan.
+CoverGirl,Clean Fresh Skin Milk Foundation,Deep 570,570,Deep,Warm,Dewy,Sheer,"Normal, Dry, Sensitive",0,True,10.99,Aloe; cucumber; hyaluronic acid; vegan.
+Anastasia Beverly Hills,Luminous Foundation,110C,110C,Fair,Cool,Luminous,Medium,"Normal, Dry, Combination",0,False,42.0,Hyaluronic acid; vitamin C; sodium PCA; luminous finish.
+Anastasia Beverly Hills,Luminous Foundation,220N,220N,Light-Medium,Neutral,Luminous,Medium,"Normal, Dry, Combination",0,False,42.0,Hyaluronic acid; vitamin C; sodium PCA; luminous finish.
+Anastasia Beverly Hills,Luminous Foundation,330W,330W,Medium,Warm,Luminous,Medium,"Normal, Dry, Combination",0,False,42.0,Hyaluronic acid; vitamin C; sodium PCA; luminous finish.
+Anastasia Beverly Hills,Luminous Foundation,530W,530W,Deep,Warm,Luminous,Medium,"Normal, Dry, Combination",0,False,42.0,Hyaluronic acid; vitamin C; sodium PCA; luminous finish.
+Anastasia Beverly Hills,Luminous Foundation,580N,580N,Rich,Neutral,Luminous,Medium,"Normal, Dry, Combination",0,False,42.0,Hyaluronic acid; vitamin C; sodium PCA; luminous finish.
+Danessa Myricks Beauty,Yummy Skin Serum Skin Tint,Shade 1,1,Fair,Neutral,Radiant,Sheer,All,0,True,42.0,Hyaluronic acid; niacinamide; vitamin C; skincare-serum tint.
+Danessa Myricks Beauty,Yummy Skin Serum Skin Tint,Shade 4,4,Light-Medium,Warm,Radiant,Sheer,All,0,True,42.0,Hyaluronic acid; niacinamide; vitamin C; skincare-serum tint.
+Danessa Myricks Beauty,Yummy Skin Serum Skin Tint,Shade 7,7,Medium,Neutral,Radiant,Sheer,All,0,True,42.0,Hyaluronic acid; niacinamide; vitamin C; skincare-serum tint.
+Danessa Myricks Beauty,Yummy Skin Serum Skin Tint,Shade 10,10,Tan,Warm,Radiant,Sheer,All,0,True,42.0,Hyaluronic acid; niacinamide; vitamin C; skincare-serum tint.
+Danessa Myricks Beauty,Yummy Skin Serum Skin Tint,Shade 14,14,Deep,Neutral,Radiant,Sheer,All,0,True,42.0,Hyaluronic acid; niacinamide; vitamin C; skincare-serum tint.
+One/Size,Turn Up the Base Versatile Water-Powered Foundation,F00,F00,Fair,Neutral,Natural,Medium-Full,All,0,True,38.0,Water-based; hyaluronic acid; niacinamide; buildable.
+One/Size,Turn Up the Base Versatile Water-Powered Foundation,LM15,LM15,Light-Medium,Neutral,Natural,Medium-Full,All,0,True,38.0,Water-based; hyaluronic acid; niacinamide; buildable.
+One/Size,Turn Up the Base Versatile Water-Powered Foundation,T35,T35,Tan,Neutral,Natural,Medium-Full,All,0,True,38.0,Water-based; hyaluronic acid; niacinamide; buildable.
+One/Size,Turn Up the Base Versatile Water-Powered Foundation,R55,R55,Rich,Neutral,Natural,Medium-Full,All,0,True,38.0,Water-based; hyaluronic acid; niacinamide; buildable.
+Westman Atelier,Vital Skincare Complexion Drops,Atelier I,I,Fair,Neutral,Radiant,Sheer,"Normal, Dry, Combination, Sensitive",0,True,88.0,Bakuchiol; niacinamide; hyaluronic acid; camellia oil; clean.
+Westman Atelier,Vital Skincare Complexion Drops,Atelier IV,IV,Light-Medium,Warm,Radiant,Sheer,"Normal, Dry, Combination, Sensitive",0,True,88.0,Bakuchiol; niacinamide; hyaluronic acid; camellia oil; clean.
+Westman Atelier,Vital Skincare Complexion Drops,Atelier VII,VII,Medium-Tan,Neutral,Radiant,Sheer,"Normal, Dry, Combination, Sensitive",0,True,88.0,Bakuchiol; niacinamide; hyaluronic acid; camellia oil; clean.
+Westman Atelier,Vital Skincare Complexion Drops,Atelier X,X,Tan,Warm,Radiant,Sheer,"Normal, Dry, Combination, Sensitive",0,True,88.0,Bakuchiol; niacinamide; hyaluronic acid; camellia oil; clean.
+Westman Atelier,Vital Skincare Complexion Drops,Atelier XII,XII,Deep,Neutral,Radiant,Sheer,"Normal, Dry, Combination, Sensitive",0,True,88.0,Bakuchiol; niacinamide; hyaluronic acid; camellia oil; clean.
+Saie,Glowy Super Skin Lightweight Serum-Foundation,100,100,Fair,Neutral,Dewy,Light-Medium,"Normal, Dry, Sensitive",0,True,40.0,Hyaluronic acid; niacinamide; peptides; clean formula.
+Saie,Glowy Super Skin Lightweight Serum-Foundation,140,140,Light,Warm,Dewy,Light-Medium,"Normal, Dry, Sensitive",0,True,40.0,Hyaluronic acid; niacinamide; peptides; clean formula.
+Saie,Glowy Super Skin Lightweight Serum-Foundation,200,200,Light-Medium,Neutral,Dewy,Light-Medium,"Normal, Dry, Sensitive",0,True,40.0,Hyaluronic acid; niacinamide; peptides; clean formula.
+Saie,Glowy Super Skin Lightweight Serum-Foundation,400,400,Tan,Warm,Dewy,Light-Medium,"Normal, Dry, Sensitive",0,True,40.0,Hyaluronic acid; niacinamide; peptides; clean formula.
+Saie,Glowy Super Skin Lightweight Serum-Foundation,500,500,Deep,Neutral,Dewy,Light-Medium,"Normal, Dry, Sensitive",0,True,40.0,Hyaluronic acid; niacinamide; peptides; clean formula.
+RMS Beauty,"""Un"" Cover-Up Cream Foundation",00,00,Fair,Cool,Natural,Medium,"Dry, Normal, Sensitive",0,True,48.0,Organic coconut oil; buriti oil; jojoba; clean/organic.
+RMS Beauty,"""Un"" Cover-Up Cream Foundation",22,22,Light-Medium,Warm,Natural,Medium,"Dry, Normal, Sensitive",0,True,48.0,Organic coconut oil; buriti oil; jojoba; clean/organic.
+RMS Beauty,"""Un"" Cover-Up Cream Foundation",44,44,Medium,Neutral,Natural,Medium,"Dry, Normal, Sensitive",0,True,48.0,Organic coconut oil; buriti oil; jojoba; clean/organic.
+RMS Beauty,"""Un"" Cover-Up Cream Foundation",77,77,Tan,Warm,Natural,Medium,"Dry, Normal, Sensitive",0,True,48.0,Organic coconut oil; buriti oil; jojoba; clean/organic.
+RMS Beauty,"""Un"" Cover-Up Cream Foundation",99,99,Deep,Neutral,Natural,Medium,"Dry, Normal, Sensitive",0,True,48.0,Organic coconut oil; buriti oil; jojoba; clean/organic.
+Jones Road,What The Foundation,00,00,Fair,Neutral,Natural,Sheer,All,0,True,42.0,Jojoba; grape-seed oil; buildable balm-tint; clean.
+Jones Road,What The Foundation,15,15,Light,Warm,Natural,Sheer,All,0,True,42.0,Jojoba; grape-seed oil; buildable balm-tint; clean.
+Jones Road,What The Foundation,35,35,Light-Medium,Neutral,Natural,Sheer,All,0,True,42.0,Jojoba; grape-seed oil; buildable balm-tint; clean.
+Jones Road,What The Foundation,75,75,Tan,Warm,Natural,Sheer,All,0,True,42.0,Jojoba; grape-seed oil; buildable balm-tint; clean.
+Jones Road,What The Foundation,100,100,Rich,Neutral,Natural,Sheer,All,0,True,42.0,Jojoba; grape-seed oil; buildable balm-tint; clean.
+Physicians Formula,Butter Believe It! Foundation + Concealer,Fair to Light,FL,Fair,Cool,Satin,Medium-Full,"Normal, Dry, Sensitive",0,True,15.99,"Murumuru, tucuma, cupuacu butters; hypoallergenic."
+Physicians Formula,Butter Believe It! Foundation + Concealer,Light to Medium,LM,Light,Warm,Satin,Medium-Full,"Normal, Dry, Sensitive",0,True,15.99,"Murumuru, tucuma, cupuacu butters; hypoallergenic."
+Physicians Formula,Butter Believe It! Foundation + Concealer,Medium to Tan,MT,Medium,Warm,Satin,Medium-Full,"Normal, Dry, Sensitive",0,True,15.99,"Murumuru, tucuma, cupuacu butters; hypoallergenic."
+Physicians Formula,Butter Believe It! Foundation + Concealer,Tan to Deep,TD,Tan,Warm,Satin,Medium-Full,"Normal, Dry, Sensitive",0,True,15.99,"Murumuru, tucuma, cupuacu butters; hypoallergenic."
+Lancôme,Teint Idole Ultra Wear Foundation SPF 35,90 Ivoire N,90N,Fair,Neutral,Matte,Full,"Oily, Combination, Normal",35,False,55.0,24-hr wear; SPF 35; hyaluronic acid; camellia extract.
+Lancôme,Teint Idole Ultra Wear Foundation SPF 35,130 Buff N,130N,Light,Neutral,Matte,Full,"Oily, Combination, Normal",35,False,55.0,24-hr wear; SPF 35; hyaluronic acid; camellia extract.
+Lancôme,Teint Idole Ultra Wear Foundation SPF 35,310 Bisque C,310C,Light-Medium,Cool,Matte,Full,"Oily, Combination, Normal",35,False,55.0,24-hr wear; SPF 35; hyaluronic acid; camellia extract.
+Lancôme,Teint Idole Ultra Wear Foundation SPF 35,500 Suede W,500W,Tan,Warm,Matte,Full,"Oily, Combination, Normal",35,False,55.0,24-hr wear; SPF 35; hyaluronic acid; camellia extract.
+Lancôme,Teint Idole Ultra Wear Foundation SPF 35,540 Suede C,540C,Deep,Cool,Matte,Full,"Oily, Combination, Normal",35,False,55.0,24-hr wear; SPF 35; hyaluronic acid; camellia extract.
+Shiseido,Synchro Skin Self-Refreshing Foundation SPF 30,110 Alabaster,110,Fair,Cool,Natural,Medium,"Normal, Combination, Oily",30,True,52.0,ActiveForce Technology; sweat- & humidity-proof; SPF 30.
+Shiseido,Synchro Skin Self-Refreshing Foundation SPF 30,220 Linen,220,Light,Neutral,Natural,Medium,"Normal, Combination, Oily",30,True,52.0,ActiveForce Technology; sweat- & humidity-proof; SPF 30.
+Shiseido,Synchro Skin Self-Refreshing Foundation SPF 30,330 Bamboo,330,Light-Medium,Warm,Natural,Medium,"Normal, Combination, Oily",30,True,52.0,ActiveForce Technology; sweat- & humidity-proof; SPF 30.
+Shiseido,Synchro Skin Self-Refreshing Foundation SPF 30,410 Sunstone,410,Medium-Tan,Warm,Natural,Medium,"Normal, Combination, Oily",30,True,52.0,ActiveForce Technology; sweat- & humidity-proof; SPF 30.
+Shiseido,Synchro Skin Self-Refreshing Foundation SPF 30,510 Suede,510,Deep,Neutral,Natural,Medium,"Normal, Combination, Oily",30,True,52.0,ActiveForce Technology; sweat- & humidity-proof; SPF 30.

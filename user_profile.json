@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "answers": {
+    "skin_type": [
+      "combination"
+    ],
+    "undertone": "cool",
+    "skin_depth": "deep",
+    "finish": [
+      "dewy"
+    ],
+    "coverage": "medium",
+    "fragrance_free": "required",
+    "non_comedogenic": "required",
+    "cruelty_free": "no_pref",
+    "price_range": "drugstore",
+    "spf_needed": "yes"
+  },
+  "resolved": {
+    "skin_type": {
+      "selected": [
+        "combination"
+      ],
+      "maps_to_dataset": null
+    },
+    "undertone": "cool",
+    "skin_depth": "deep",
+    "finish": {
+      "selected": [
+        "dewy"
+      ],
+      "maps_to_dataset": [
+        "Dewy",
+        "Radiant",
+        "Luminous"
+      ]
+    },
+    "coverage": {
+      "selected": "medium",
+      "maps_to_dataset": [
+        "Light-Medium",
+        "Medium",
+        "Medium-Full"
+      ]
+    },
+    "fragrance_free": "required",
+    "non_comedogenic": "required",
+    "cruelty_free": "no_pref",
+    "price_range": {
+      "selected": "drugstore",
+      "max_usd": 20
+    },
+    "spf_needed": "yes"
+  }
+}
