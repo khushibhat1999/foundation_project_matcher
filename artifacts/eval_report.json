@@ -1,0 +1,572 @@
+{
+  "offline": {
+    "n_test_impressions": 789,
+    "n_test_sessions": 100,
+    "positive_rate": 0.632446134347275,
+    "used_ml": true,
+    "rules": {
+      "n_sessions": 86,
+      "top3_accuracy": 0.9767441860465116,
+      "precision@3": 0.7596899224806201,
+      "MAP": 0.8545790437404878,
+      "NDCG@3": 0.5291867339108487,
+      "top5_accuracy": 1.0,
+      "NDCG@5": 0.6067552624155108
+    },
+    "ml": {
+      "n_sessions": 86,
+      "top3_accuracy": 0.9767441860465116,
+      "precision@3": 0.751937984496124,
+      "MAP": 0.8471997115371159,
+      "NDCG@3": 0.48218937486874847,
+      "top5_accuracy": 1.0,
+      "NDCG@5": 0.5771549111149024
+    },
+    "calibration": {
+      "ece": 0.127517279102891,
+      "brier": 0.1900347991514846,
+      "bins": [
+        {
+          "lo": 0.0,
+          "hi": 0.1,
+          "n": 81,
+          "pred": 0.05162152605449362,
+          "actual": 0.20987654320987653
+        },
+        {
+          "lo": 0.1,
+          "hi": 0.2,
+          "n": 109,
+          "pred": 0.14948789018866304,
+          "actual": 0.3394495412844037
+        },
+        {
+          "lo": 0.2,
+          "hi": 0.30000000000000004,
+          "n": 53,
+          "pred": 0.23989692847990746,
+          "actual": 0.4339622641509434
+        },
+        {
+          "lo": 0.30000000000000004,
+          "hi": 0.4,
+          "n": 46,
+          "pred": 0.3633574785032467,
+          "actual": 0.43478260869565216
+        },
+        {
+          "lo": 0.4,
+          "hi": 0.5,
+          "n": 49,
+          "pred": 0.44942198620360646,
+          "actual": 0.5510204081632653
+        },
+        {
+          "lo": 0.5,
+          "hi": 0.6000000000000001,
+          "n": 105,
+          "pred": 0.5520526852168895,
+          "actual": 0.7047619047619048
+        },
+        {
+          "lo": 0.6000000000000001,
+          "hi": 0.7000000000000001,
+          "n": 99,
+          "pred": 0.6477632192924005,
+          "actual": 0.8181818181818182
+        },
+        {
+          "lo": 0.7000000000000001,
+          "hi": 0.8,
+          "n": 111,
+          "pred": 0.7472370503157846,
+          "actual": 0.8738738738738738
+        },
+        {
+          "lo": 0.8,
+          "hi": 0.9,
+          "n": 64,
+          "pred": 0.837432848071084,
+          "actual": 0.859375
+        },
+        {
+          "lo": 0.9,
+          "hi": 1.0,
+          "n": 72,
+          "pred": 0.9468114016255963,
+          "actual": 0.9444444444444444
+        }
+      ]
+    },
+    "by_skin_type": {
+      "combination": {
+        "n": 107,
+        "rules": {
+          "n_sessions": 10,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8,
+          "MAP": 0.9109069592024136,
+          "NDCG@3": 0.5436749456311436
+        },
+        "ml": {
+          "n_sessions": 10,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.7666666666666666,
+          "MAP": 0.9051242784992783,
+          "NDCG@3": 0.4798243688999616
+        }
+      },
+      "normal": {
+        "n": 107,
+        "rules": {
+          "n_sessions": 11,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8484848484848485,
+          "MAP": 0.8902220552633776,
+          "NDCG@3": 0.7360295197511776
+        },
+        "ml": {
+          "n_sessions": 11,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8484848484848485,
+          "MAP": 0.8438415838829062,
+          "NDCG@3": 0.5692581400659003
+        }
+      },
+      "sensitive": {
+        "n": 95,
+        "rules": {
+          "n_sessions": 9,
+          "top3_accuracy": 0.8888888888888888,
+          "precision@3": 0.5555555555555556,
+          "MAP": 0.6722591879999288,
+          "NDCG@3": 0.48860394805623486
+        },
+        "ml": {
+          "n_sessions": 9,
+          "top3_accuracy": 0.8888888888888888,
+          "precision@3": 0.5185185185185185,
+          "MAP": 0.6344832807795772,
+          "NDCG@3": 0.4589229480572453
+        }
+      },
+      "oily": {
+        "n": 85,
+        "rules": {
+          "n_sessions": 10,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.7666666666666666,
+          "MAP": 0.8541167800453515,
+          "NDCG@3": 0.5304915766469454
+        },
+        "ml": {
+          "n_sessions": 10,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.7666666666666666,
+          "MAP": 0.8502358276643992,
+          "NDCG@3": 0.5358755344794058
+        }
+      },
+      "acne_prone,oily": {
+        "n": 61,
+        "rules": {
+          "n_sessions": 7,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.7619047619047619,
+          "MAP": 0.9652969605350558,
+          "NDCG@3": 0.8761298170892748
+        },
+        "ml": {
+          "n_sessions": 7,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8095238095238095,
+          "MAP": 0.9812089145422479,
+          "NDCG@3": 0.7150759505431765
+        }
+      },
+      "acne_prone,sensitive": {
+        "n": 54,
+        "rules": {
+          "n_sessions": 5,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.9333333333333333,
+          "MAP": 0.903594276094276,
+          "NDCG@3": 0.40035161847176237
+        },
+        "ml": {
+          "n_sessions": 5,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.9333333333333333,
+          "MAP": 0.89008177008177,
+          "NDCG@3": 0.4325192538805906
+        }
+      },
+      "dry,oily": {
+        "n": 41,
+        "rules": {
+          "n_sessions": 4,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8333333333333333,
+          "MAP": 0.886924459694346,
+          "NDCG@3": 0.3429190029060798
+        },
+        "ml": {
+          "n_sessions": 4,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.9166666666666666,
+          "MAP": 0.9190488283812146,
+          "NDCG@3": 0.29348317513198974
+        }
+      },
+      "dry": {
+        "n": 40,
+        "rules": {
+          "n_sessions": 5,
+          "top3_accuracy": 1.0,
+          "precision@3": 1.0,
+          "MAP": 0.9909291781450872,
+          "NDCG@3": 0.4193366617982755
+        },
+        "ml": {
+          "n_sessions": 5,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.9333333333333333,
+          "MAP": 0.9769113210022301,
+          "NDCG@3": 0.419798401745329
+        }
+      },
+      "normal,sensitive": {
+        "n": 30,
+        "rules": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.7777777777777778,
+          "MAP": 0.7906378600823046,
+          "NDCG@3": 0.15415238427471195
+        },
+        "ml": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.5555555555555555,
+          "MAP": 0.6692445620223398,
+          "NDCG@3": 0.3075013034452882
+        }
+      },
+      "combination,dry": {
+        "n": 28,
+        "rules": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8888888888888888,
+          "MAP": 0.9417246053609688,
+          "NDCG@3": 0.22767319719055581
+        },
+        "ml": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8888888888888888,
+          "MAP": 0.9532084918448555,
+          "NDCG@3": 0.22767319719055581
+        }
+      },
+      "acne_prone": {
+        "n": 21,
+        "rules": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8888888888888888,
+          "MAP": 0.9004232804232805,
+          "NDCG@3": 0.5140228973933888
+        },
+        "ml": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8888888888888888,
+          "MAP": 0.9185714285714285,
+          "NDCG@3": 0.24600807568512154
+        }
+      },
+      "normal,oily": {
+        "n": 20,
+        "rules": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8333333333333333,
+          "MAP": 0.7302188552188553,
+          "NDCG@3": 0.25100130840736373
+        },
+        "ml": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.6666666666666666,
+          "MAP": 0.6990079365079365,
+          "NDCG@3": 0.31673536800658697
+        }
+      },
+      "dry,normal": {
+        "n": 19,
+        "rules": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 1.0,
+          "MAP": 0.9282306834579561,
+          "NDCG@3": 0.49179088288983747
+        },
+        "ml": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.8333333333333333,
+          "MAP": 0.9226406926406926,
+          "NDCG@3": 0.4846149954176672
+        }
+      },
+      "acne_prone,dry": {
+        "n": 17,
+        "rules": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.5,
+          "MAP": 0.6270833333333333,
+          "NDCG@3": 0.48369914404982833
+        },
+        "ml": {
+          "n_sessions": 2,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.6666666666666666,
+          "MAP": 0.7868055555555555,
+          "NDCG@3": 0.4923666697291196
+        }
+      },
+      "dry,sensitive": {
+        "n": 15,
+        "rules": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.5555555555555555,
+          "MAP": 1.0,
+          "NDCG@3": 0.6668346192971657
+        },
+        "ml": {
+          "n_sessions": 3,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.5555555555555555,
+          "MAP": 0.9805134680134681,
+          "NDCG@3": 0.6668346192971657
+        }
+      },
+      "acne_prone,normal": {
+        "n": 15,
+        "rules": {
+          "n_sessions": 2,
+          "top3_accuracy": 0.5,
+          "precision@3": 0.5,
+          "MAP": 0.6180555555555556,
+          "NDCG@3": 0.28413774682067156
+        },
+        "ml": {
+          "n_sessions": 2,
+          "top3_accuracy": 0.5,
+          "precision@3": 0.5,
+          "MAP": 0.6180555555555556,
+          "NDCG@3": 0.1592554879055061
+        }
+      },
+      "acne_prone,combination": {
+        "n": 12,
+        "rules": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.3333333333333333,
+          "MAP": 0.6,
+          "NDCG@3": 0.9926319875845427
+        },
+        "ml": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.3333333333333333,
+          "MAP": 0.5909090909090909,
+          "NDCG@3": 0.9926319875845427
+        }
+      },
+      "combination,sensitive": {
+        "n": 8,
+        "rules": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.3333333333333333,
+          "MAP": 0.4444444444444444,
+          "NDCG@3": 0.1527283283299392
+        },
+        "ml": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.3333333333333333,
+          "MAP": 0.4777777777777777,
+          "NDCG@3": 0.1527283283299392
+        }
+      },
+      "combination,normal": {
+        "n": 8,
+        "rules": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.3333333333333333,
+          "MAP": 0.6678571428571429,
+          "NDCG@3": 0.05515436955476696
+        },
+        "ml": {
+          "n_sessions": 1,
+          "top3_accuracy": 1.0,
+          "precision@3": 0.6666666666666666,
+          "MAP": 0.7470238095238095,
+          "NDCG@3": 0.08273155433215044
+        }
+      }
+    }
+  },
+  "product": {
+    "n_impressions": 4134,
+    "n_sessions": 501,
+    "ctr": 0.6243347847121432,
+    "n_rated": 2999,
+    "mean_satisfaction": 4.0480160053351115,
+    "good_match_yes": 2182,
+    "good_match_no": 817,
+    "good_match_rate": 0.7275758586195399,
+    "diversity": {
+      "avg_unique_brands": 7.684630738522954,
+      "avg_brand_entropy": 2.66753614217322,
+      "avg_price": 38.059800429444145,
+      "avg_price_std": 11.982758373822964,
+      "price_span_mean": 36.64526946107783
+    },
+    "by_skin_type": {
+      "normal": {
+        "n": 454,
+        "ctr": 0.6057268722466961,
+        "mean_rating": 3.96,
+        "good_match_rate": 0.6953846153846154
+      },
+      "combination": {
+        "n": 444,
+        "ctr": 0.6013513513513513,
+        "mean_rating": 3.953846153846154,
+        "good_match_rate": 0.6923076923076923
+      },
+      "sensitive": {
+        "n": 332,
+        "ctr": 0.41566265060240964,
+        "mean_rating": 3.4405286343612334,
+        "good_match_rate": 0.45374449339207046
+      },
+      "acne_prone": {
+        "n": 323,
+        "ctr": 0.7275541795665634,
+        "mean_rating": 4.472340425531915,
+        "good_match_rate": 0.9148936170212766
+      },
+      "dry": {
+        "n": 315,
+        "ctr": 0.6603174603174603,
+        "mean_rating": 4.0,
+        "good_match_rate": 0.7011494252873564
+      },
+      "oily": {
+        "n": 306,
+        "ctr": 0.5816993464052288,
+        "mean_rating": 3.752173913043478,
+        "good_match_rate": 0.6304347826086957
+      },
+      "acne_prone,oily": {
+        "n": 224,
+        "ctr": 0.53125,
+        "mean_rating": 3.65,
+        "good_match_rate": 0.5777777777777777
+      },
+      "dry,sensitive": {
+        "n": 197,
+        "ctr": 0.5939086294416244,
+        "mean_rating": 3.8313953488372094,
+        "good_match_rate": 0.6162790697674418
+      },
+      "combination,oily": {
+        "n": 178,
+        "ctr": 0.8089887640449438,
+        "mean_rating": 4.583333333333333,
+        "good_match_rate": 0.9166666666666666
+      },
+      "dry,normal": {
+        "n": 159,
+        "ctr": 0.7610062893081762,
+        "mean_rating": 4.471074380165289,
+        "good_match_rate": 0.8925619834710744
+      },
+      "dry,oily": {
+        "n": 137,
+        "ctr": 0.781021897810219,
+        "mean_rating": 4.5233644859813085,
+        "good_match_rate": 0.9345794392523364
+      },
+      "acne_prone,dry": {
+        "n": 130,
+        "ctr": 0.676923076923077,
+        "mean_rating": 4.2272727272727275,
+        "good_match_rate": 0.7954545454545454
+      },
+      "combination,sensitive": {
+        "n": 129,
+        "ctr": 0.5426356589147286,
+        "mean_rating": 3.8285714285714287,
+        "good_match_rate": 0.6142857142857143
+      },
+      "combination,dry": {
+        "n": 121,
+        "ctr": 0.71900826446281,
+        "mean_rating": 4.574712643678161,
+        "good_match_rate": 0.9310344827586207
+      },
+      "acne_prone,sensitive": {
+        "n": 112,
+        "ctr": 0.6696428571428571,
+        "mean_rating": 4.306666666666667,
+        "good_match_rate": 0.8133333333333334
+      },
+      "combination,normal": {
+        "n": 112,
+        "ctr": 0.4732142857142857,
+        "mean_rating": 3.7169811320754715,
+        "good_match_rate": 0.6037735849056604
+      },
+      "normal,sensitive": {
+        "n": 108,
+        "ctr": 0.5462962962962963,
+        "mean_rating": 4.271186440677966,
+        "good_match_rate": 0.8135593220338984
+      },
+      "normal,oily": {
+        "n": 102,
+        "ctr": 0.7156862745098039,
+        "mean_rating": 4.287671232876712,
+        "good_match_rate": 0.8493150684931506
+      },
+      "acne_prone,normal": {
+        "n": 89,
+        "ctr": 0.6853932584269663,
+        "mean_rating": 4.245901639344262,
+        "good_match_rate": 0.8524590163934426
+      },
+      "acne_prone,combination": {
+        "n": 84,
+        "ctr": 0.7023809523809523,
+        "mean_rating": 4.372881355932203,
+        "good_match_rate": 0.864406779661017
+      },
+      "oily,sensitive": {
+        "n": 78,
+        "ctr": 0.6025641025641025,
+        "mean_rating": 4.0,
+        "good_match_rate": 0.7446808510638298
+      }
+    }
+  }
+}
